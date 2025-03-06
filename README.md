@@ -1,6 +1,6 @@
 # Shadow Cipher
 
-![Shadow Cipher](https://github.com/xMrDrx/Cipher/raw/main/images/image.png)
+![Shadow Cipher](https://github.com/xMrDrx/Cipher/blob/main/image.png)
 > *A cryptic tool forged in darkness to shroud your secrets.*
 
 ## About
