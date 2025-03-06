@@ -18,7 +18,7 @@ Shadow Cipher is a command-line encryption tool crafted by **Mr. Dr**, the sover
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/xMrDrx/Cipher.git
-   cd Shadow-Cipher
+   cd Cipher
    pip install -r requirements.txt
    python shadow_cipher.py --help
    python shadow_cipher.py encrypt "Text" -s Number
