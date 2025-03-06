@@ -1,6 +1,6 @@
 # Shadow Cipher
 
-![Shadow Cipher](https://github.com/xMrDrx/Cipher/blob/main/image.png)
+![Shadow Cipher](https://github.com/xMrDrx/Cipher/raw/main/images/image.png)
 > *A cryptic tool forged in darkness to shroud your secrets.*
 
 ## About
@@ -15,7 +15,7 @@ Shadow Cipher is a command-line encryption tool crafted by **Mr. Dr**, the sover
 - Simple, powerful, and portable.
 
 ## Installation
-1. Clone the repository:
+1. **Clone the repository**:
    ```bash
    git clone https://github.com/xMrDrx/Shadow-Cipher.git
    cd Shadow-Cipher
